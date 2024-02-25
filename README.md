@@ -26,6 +26,11 @@ A person’s lifespan is determined by their senescence (health span) which is t
 
 A person's physical health is determined by the overall condition of their body in conjunction with numerous factors such as how physically active they are, what their diet is like and what they are exposed to (in terms of surroundings, sunlight, harmful substances, etc.) on a regular basis [GB-1]. A person's mental health is determined by how well they handle stressful happenings and how emotionally well their manner of living is, both in conjunction with numerous factors such as the degree to which they are surrounded by objectively negative circumstances (such as violence and poverty), what their social & emotional circumstances are like, the degree to which they have the capacity to relieve themselves of stress, and how much harshly impactful negativity pertains to their past [GB-2].
 
+The following user personas demonstrate what identifiable cognition-related and health-related needs of the elderly will be addressed and hopefully met by our planned application.
+
+![User Persona 1]([https://ibb.co/6WNwf1w] "User Persona 1")
+![User Persona 2]([https://ibb.co/JyQkhcw] "User Persona 2")
+
 ### Explore
 
 #### Develop - developing potential solutions
