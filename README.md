@@ -28,8 +28,8 @@ A person's physical health is determined by the overall condition of their body 
 
 The following user personas demonstrate what identifiable cognition-related and health-related needs of the elderly will be addressed and hopefully met by our planned application.
 
-![User Persona 1](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/User%20Journey%20Map%201.jpg "User Persona 1")
-![User Persona 2](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/User%20Journey%20Map%202.jpg "User Persona 2")
+![User Persona 1](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/User%20Persona%201.jpg "User Persona 1")
+![User Persona 2](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/User%20Persona%202.jpg "User Persona 2")
 
 
 ### Explore
