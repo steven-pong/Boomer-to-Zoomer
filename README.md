@@ -61,6 +61,11 @@ The prototype of our application is shown below, over the span of the following 
 ![App Prototype Image Set 3](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20III.jpg "App Prototype Image Set 3")
 ![App Prototype Image Set 4](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20IV.jpg "App Prototype Image Set 4")
 
+Two user journeys (detailed step-by-step ways in which the intended application users will ideally use it for the purposes which are aimed to be fulfilled using said application) are shown below:
+
+![User Journey Map 1](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/User%20Journey%20Map%201.jpg "User Journey Map 1")
+![User Journey Map 2](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/User%20Journey%20Map%202.jpg "User Journey Map 2")
+
 ## References
 
 [^1]: Senescence is the process of age related biological deterioration  
