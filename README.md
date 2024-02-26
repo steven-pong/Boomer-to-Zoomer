@@ -58,8 +58,8 @@ The prototype of our application is shown below, over the span of the following 
 
 ![App Prototype Image Set 1](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20I.jpg "App Prototype Image Set 1")
 ![App Prototype Image Set 2](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20II.jpg "App Prototype Image Set 2")
-![App Prototype Image Set 3](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%203.jpg "App Prototype Image Set 3")
-![App Prototype Image Set 4](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%204.jpg "App Prototype Image Set 4")
+![App Prototype Image Set 3](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20III.jpg "App Prototype Image Set 3")
+![App Prototype Image Set 4](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20IV.jpg "App Prototype Image Set 4")
 
 ## References
 
