@@ -54,6 +54,12 @@ Below are some sketches of such an application:
 
 Zoomers, to an extent, may benefit from information overload from the perspective of stimulating the neurons which in turn stimulates mental health. While it unconceivable for a Boomer to immerse themselves into a Zoomer lifestyle, it can be posited that not all mental stimulation is created equally. A Zoomer mindlessly checking his social media feed every other second could be equated to a Boomer playing a challenging mind game for a few minutes. In essence, it’s not the quantity but the quality of neurons expended that could serve as the bridge to narrow that technological divide.
 
+The prototype of our application is shown below, over the span of the following four images:
+
+![App Prototype Image Set 1](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20I.jpg "App Prototype Image Set 1")
+![App Prototype Image Set 2](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20II.jpg "App Prototype Image Set 2")
+![App Prototype Image Set 3](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20III.jpg "App Prototype Image Set 3")
+![App Prototype Image Set 4](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20IV.jpg "App Prototype Image Set 4")
 
 ## References
 
