@@ -54,6 +54,10 @@ Below are some sketches of such an application:
 
 ![App Sketches](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Sketches.jpg "App Sketches")
 
+Below are the wireframes of our planned application (the overall diagram which also acts as a "user flow diagram", or one which demonstrates how an intended user would ideally use the application via showcasing the intended flow (achieved using actions, in this case being button presses) through the app).
+
+![App Wireframes](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/Wireframe.jpg "App Wireframes")
+
 ##### Deliver - delivering solutions (in the case of this project, prototypes) that work
 
 Zoomers, to an extent, may benefit from information overload from the perspective of stimulating the neurons which in turn stimulates mental health. While it unconceivable for a Boomer to immerse themselves into a Zoomer lifestyle, it can be posited that not all mental stimulation is created equally. A Zoomer mindlessly checking his social media feed every other second could be equated to a Boomer playing a challenging mind game for a few minutes. In essence, it’s not the quantity but the quality of neurons expended that could serve as the bridge to narrow that technological divide.
@@ -64,6 +68,17 @@ The prototype of our application is shown below, over the span of the following 
 ![App Prototype Image Set 2](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20II.jpg "App Prototype Image Set 2")
 ![App Prototype Image Set 3](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20III.jpg "App Prototype Image Set 3")
 ![App Prototype Image Set 4](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/App%20Mockup%20IV.jpg "App Prototype Image Set 4")
+
+The font used throughout the mockups is known as Roboto, which has been listed as one of the most readable fonts according to Wix [^GB-6], one of the most well-known and well-reputed experts in website creation whose services are some of the best that are available online. With a moderate degree of boldness (not excessive yet not too thin), more readable g's and a's, and readability-enhancing line conjunction points which allow for every character to be efficiently distinguishable from one another [^GB-6], this font would be ideal for elderly individuals of all technological backgrounds and levels of vision or reading comprehension.
+
+Additional guidelines for designing senior-friendly websites and applications exist online, with one particular and helpful set being incorporated into the visual design of the mockups. According to the guidelines used in conjunction with the designed mockups, the size of the text included in websites or applications made for seniors should be selected "generously" and correspond to at least 12-point fonts [^GB-7]. As such, all of the font sizes chosen for the mockups were considerably greater than what would correspond to a 12-point Roboto font. Excessively lengthy blocks of text are discouraged and should be split into more easily readable segments (shorter paragraphs, individual items on a clearly indicated list, etc.) [^GB-7]. None of the chunks of text featured in the mockups exceed 3 sentences or 8 lines, with larger groupings of text being used in the "About our App" page solely due to necessity. Whitespace (or "negative spacing") should be used between and around text segments as well as any images utilized within a developed website or application [^GB-7]. As such, plenty of readability-enhancing spacing was used in the mockups between text blocks, individual lists, buttons and even button text (with respect to the buttons within which they are contained). Lastly, the pairing of black text with light or white backgrounds will ensure the utmost readability of website or application content when it comes to seniors [^GB-7]. Black text on light-coloured backgrounds (primarily the light green colour serving as the main background colour of the application) is exclusively used throughout the mockups.
+
+Existing Sudoku applications feature the 9 numbers involved in Sudoku arranged in a keypad-resembling format. Due to this arrangement being present in existing applications available for download and having the potential to be familiar to seniors who have used handheld phones with keypads at some point in their lives, it is an ideal arrangement for the numbers in our in-app Sudoku game. They also contain features such as a score tracker for the currently played game, a timer for the currently played game, and (for certain games) a mistake tracker that allows for up to 3 mistakes to be made. However, these features may serve as unwanted and unneeded distractions for our target users, who would simply want to make use of the in-app Sudoku game for cognitive stimulation and its corresponding benefits. Usage of too many colours across the entirety of the Sudoku game page (as opposed to solely when it comes to the different buttons within the page) may come across as disorienting to certain seniors, and as such were not included within the background of our Sudoku game page (as well as the entirety of our application).
+
+Examples of existing Sudoku apps with keypad-formatted number buttons and additional features which would be unnecessary and likely unwanted when it comes to our application are shown below:
+
+![Sudoku App Example 1](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/sudokuapp2.jpeg "Sudoku App Example 1")
+![Sudoku App Example 2](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/sudokuapp3.jpeg "Sudoku App Example 2")
 
 Two user journeys (detailed step-by-step ways in which the intended application users will ideally use it for the purposes which are aimed to be fulfilled using said application) are shown below:
 
@@ -82,3 +97,5 @@ Two user journeys (detailed step-by-step ways in which the intended application 
 [^GB-3]: S. Chang, “Back to Basics: All About MyPlate Food Groups,” USDA, https://www.usda.gov/media/blog/2017/09/26/back-basics-all-about-myplate-food-groups (accessed Feb. 12, 2024). 
 [^GB-4]: Carlson SA, Adams EK, Yang Z, Fulton JE. Percentage of Deaths Associated With Inadequate Physical Activity in the United States. Prev Chronic Dis 2018;15:170354. DOI: http://dx.doi.org/10.5888/pcd18.170354external icon 
 [^GB-5]: National Academies of Sciences, Engineering, and Medicine. 2020. Social Isolation and Loneliness in Older Adults: Opportunities for the Health Care System. Washington, DC: The National Academies Press. https://doi.org/10.17226/25663
+[^GB-6] A. Cvetkovic, "17 of the easiest fonts to read," Wix Blog, https://www.wix.com/blog/easiest-font-to-read (accessed Feb. 12, 2024).
+[^GB-7] I. Strizver, "Designing For Seniors," Fonts.com, https://www.fonts.com/content/learning/fyti/situational-typography/designing-for-seniors (accessed Feb. 12, 2024).
