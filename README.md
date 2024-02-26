@@ -57,12 +57,8 @@ Zoomers, to an extent, may benefit from information overload from the perspectiv
 [^2]: https://humanprogress.org/trends/life-expectancy-is-rising/
 [^3]: CDC
 [^4]: CDC
-[^GB-1]: N. Ferreira, A. Owen, A. Mohan, A. Corbett, and C. Ballard, “Associations between cognitively stimulating leisure activities, cognitive function and age-related cognitive decline,” International Journal of Geriatric Psychiatry, https://pubmed.ncbi.nlm.nih.gov/24989949/ (accessed Feb. 10, 2024). 
-
-[^GB-2]: USDA, “Older Adults,” USDA MyPlate, https://www.myplate.gov/life-stages/older-adults (accessed Feb. 12, 2024). 
-
-[^GB-3]: S. Chang, “Back to Basics: All About MyPlate Food Groups,” USDA, https://www.usda.gov/media/blog/2017/09/26/back-basics-all-about-myplate-food-groups (accessed Feb. 12, 2024). 
-
-[^GB-4]: Carlson SA, Adams EK, Yang Z, Fulton JE. Percentage of Deaths Associated With Inadequate Physical Activity in the United States. Prev Chronic Dis 2018;15:170354. DOI: http://dx.doi.org/10.5888/pcd18.170354external icon 
-
-[^GB-5]: National Academies of Sciences, Engineering, and Medicine. 2020. Social Isolation and Loneliness in Older Adults: Opportunities for the Health Care System. Washington, DC: The National Academies Press. https://doi.org/10.17226/25663 
+[^GB-1]: Carlson SA, Adams EK, Yang Z, Fulton JE. Percentage of Deaths Associated With Inadequate Physical Activity in the United States. Prev Chronic Dis 2018;15:170354. DOI: http://dx.doi.org/10.5888/pcd18.170354external icon 
+[^GB-2]: National Academies of Sciences, Engineering, and Medicine. 2020. Social Isolation and Loneliness in Older Adults: Opportunities for the Health Care System. Washington, DC: The National Academies Press. https://doi.org/10.17226/25663 
+[^GB-3]: N. Ferreira, A. Owen, A. Mohan, A. Corbett, and C. Ballard, “Associations between cognitively stimulating leisure activities, cognitive function and age-related cognitive decline,” International Journal of Geriatric Psychiatry, https://pubmed.ncbi.nlm.nih.gov/24989949/ (accessed Feb. 10, 2024). 
+[^GB-4]: USDA, “Older Adults,” USDA MyPlate, https://www.myplate.gov/life-stages/older-adults (accessed Feb. 12, 2024). 
+[^GB-5]: S. Chang, “Back to Basics: All About MyPlate Food Groups,” USDA, https://www.usda.gov/media/blog/2017/09/26/back-basics-all-about-myplate-food-groups (accessed Feb. 12, 2024). 
