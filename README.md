@@ -97,5 +97,5 @@ Two user journeys (detailed step-by-step ways in which the intended application 
 [^GB-3]: S. Chang, “Back to Basics: All About MyPlate Food Groups,” USDA, https://www.usda.gov/media/blog/2017/09/26/back-basics-all-about-myplate-food-groups (accessed Feb. 12, 2024). 
 [^GB-4]: Carlson SA, Adams EK, Yang Z, Fulton JE. Percentage of Deaths Associated With Inadequate Physical Activity in the United States. Prev Chronic Dis 2018;15:170354. DOI: http://dx.doi.org/10.5888/pcd18.170354external icon 
 [^GB-5]: National Academies of Sciences, Engineering, and Medicine. 2020. Social Isolation and Loneliness in Older Adults: Opportunities for the Health Care System. Washington, DC: The National Academies Press. https://doi.org/10.17226/25663
-[^GB-6] A. Cvetkovic, "17 of the easiest fonts to read," Wix Blog, https://www.wix.com/blog/easiest-font-to-read (accessed Feb. 12, 2024).
-[^GB-7] I. Strizver, "Designing For Seniors," Fonts.com, https://www.fonts.com/content/learning/fyti/situational-typography/designing-for-seniors (accessed Feb. 12, 2024).
+[^GB-6]: A. Cvetkovic, "17 of the easiest fonts to read," Wix Blog, https://www.wix.com/blog/easiest-font-to-read (accessed Feb. 12, 2024).
+[^GB-7]: I. Strizver, "Designing For Seniors," Fonts.com, https://www.fonts.com/content/learning/fyti/situational-typography/designing-for-seniors (accessed Feb. 12, 2024).
