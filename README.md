@@ -6,7 +6,7 @@
 
 ### Introduction 
 
-Age is but a cruel companion that becomes crueler with time. She might seem like a sweet tempting mistress, but she won’t sugarcoat man’s biological reality, *senescence* [^1]. According to the CATO Institute’s Human Progress project, the expected lifespan of humans would reach 92 in 2100 from the present expected lifespan of 82 [^2]. Throughout the ages, the average expected lifespan was 30 years. In around 120 years, the expected lifespan nearly tripled. It also mentioned that the average expectancy grows on average 3 months per year. If life expectancy increases as humans are becoming more and more sedentary and have a growing obesity problem, then by implication, mental and physical health could be significant contributors.
+Age is but a cruel companion that becomes crueler with time. She might seem like a sweet tempting mistress, but she won’t sugarcoat man’s biological reality, *senescence* [^1]. According to the CATO Institute’s Human Progress project, the expected human lifespan in 2100 would reach 92 years of age from the present expected lifespan of 82 years of age [^2]. Throughout the ages, the average expected lifespan was 30 years of age. In around 120 years, the expected lifespan nearly tripled. It also identified an average life expectancy growth of an average of 3 months per year. If life expectancy increases as humans are becoming more and more sedentary and with a growing obesity crisis, then by implication, mental and physical health could be significant contributors to further elongate the average lifespan.
 
 ### Research and Analysis
 
@@ -40,6 +40,9 @@ The following user personas demonstrate what identifiable cognition-related and 
 
 
 #### Explore
+
+> [!IMPORTANT]
+> If a willingness exist to explore new environments, then it can be implied that an obstacle to adapting to an everchanging environment due to obstacles outside of the elderly population's control such as user friendly products or a radical paradigm shift in thinking. As an example, it could be argue when the automobile was gradually becoming more prelavent in society, your average buggy drawn whip jockey could never imagine a metal trinket replacing a traditional mode of transportation that has existed for generations. 
 
 ##### Develop - developing potential solutions
 
