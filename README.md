@@ -1,12 +1,10 @@
-# From Boomer-to-Zoomer using a Double Diamond Design
-
-By Steven Pong and Giancarlo Biasiucci 
+<h1 align="center">Boomer-to-Zoomer <br /> User-centered Double Diamond Design</h1>
+<p align="center">By <i>Steven Pong</i> and <i>Giancarlo Biasiucci</i></p>
 
 > [!NOTE]
-> The term Boomer refers to individuals aged 60 years old or older and Zoomer refers to individuals aged 30 and under. For the purpose of simplifying the age groups, a Zoomer would also include Millenials, Gen X and Gen Alpha.
+> The term ***Boomer*** refers to individuals aged 60 years old or older and a ***Zoomer*** refers to individuals aged 30 and under. For the purpose of emphasizing two specific population, all reference to a *Millenials*, *Gen Xer* and *Gen Alpha* would refer to a *Zoomer*.
 
-
-## Introduction 
+### Introduction 
 
 Age is but a cruel companion that becomes crueler with time. She might seem like a sweet tempting mistress, but she won’t sugarcoat man’s biological reality, senescence [^1]. According to the CATO Institute’s Human Progress project, the expected lifespan of humans would reach 92 in 2100 from the present expected lifespan of 82 [^2]. Throughout the ages, the average expected lifespan was 30 years. In around 120 years, the expected lifespan nearly tripled. It also mentioned that the average expectancy grows on average 3 months per year. If life expectancy increases as humans are becoming more and more sedentary and have a growing obesity problem, then by implication, mental and physical health could be significant contributors. 
 
@@ -66,14 +64,15 @@ Two user journeys (detailed step-by-step ways in which the intended application 
 ![User Journey Map 1](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/User%20Journey%20Map%201.jpg "User Journey Map 1")
 ![User Journey Map 2](https://github.com/steven-pong/Boomer-to-Zoomer/blob/main/images/User%20Journey%20Map%202.jpg "User Journey Map 2")
 
-## References
+### References
 
-[^1]: Senescence is the process of age related biological deterioration  
-[^2]: https://humanprogress.org/trends/life-expectancy-is-rising/
+[^1]: Senescence is the process of age related biological deterioration.  
+[^2]: M. L. Tupy, R. Bailey. (2023, March). "Life Expectancy is Rising". *Human Progress* [Online]. Available: https://humanprogress.org/trends/life-expectancy-is-rising/
 [^3]: CDC
 [^4]: CDC
-[^GB-1]: Carlson SA, Adams EK, Yang Z, Fulton JE. Percentage of Deaths Associated With Inadequate Physical Activity in the United States. Prev Chronic Dis 2018;15:170354. DOI: http://dx.doi.org/10.5888/pcd18.170354external icon 
-[^GB-2]: National Academies of Sciences, Engineering, and Medicine. 2020. Social Isolation and Loneliness in Older Adults: Opportunities for the Health Care System. Washington, DC: The National Academies Press. https://doi.org/10.17226/25663 
-[^GB-3]: N. Ferreira, A. Owen, A. Mohan, A. Corbett, and C. Ballard, “Associations between cognitively stimulating leisure activities, cognitive function and age-related cognitive decline,” International Journal of Geriatric Psychiatry, https://pubmed.ncbi.nlm.nih.gov/24989949/ (accessed Feb. 10, 2024). 
-[^GB-4]: USDA, “Older Adults,” USDA MyPlate, https://www.myplate.gov/life-stages/older-adults (accessed Feb. 12, 2024). 
-[^GB-5]: S. Chang, “Back to Basics: All About MyPlate Food Groups,” USDA, https://www.usda.gov/media/blog/2017/09/26/back-basics-all-about-myplate-food-groups (accessed Feb. 12, 2024). 
+[^unold]: S. Scherbov, W. Sanderson. "New Measures of Population Ageing". Available: https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/unpd_egm_201902_s1_sergeischerbov.pdf
+[^GB-1]: N. Ferreira, A. Owen, A. Mohan, A. Corbett, and C. Ballard, “Associations between cognitively stimulating leisure activities, cognitive function and age-related cognitive decline,” International Journal of Geriatric Psychiatry, https://pubmed.ncbi.nlm.nih.gov/24989949/ (accessed Feb. 10, 2024). 
+[^GB-2]: USDA, “Older Adults,” USDA MyPlate, https://www.myplate.gov/life-stages/older-adults (accessed Feb. 12, 2024). 
+[^GB-3]: S. Chang, “Back to Basics: All About MyPlate Food Groups,” USDA, https://www.usda.gov/media/blog/2017/09/26/back-basics-all-about-myplate-food-groups (accessed Feb. 12, 2024). 
+[^GB-4]: Carlson SA, Adams EK, Yang Z, Fulton JE. Percentage of Deaths Associated With Inadequate Physical Activity in the United States. Prev Chronic Dis 2018;15:170354. DOI: http://dx.doi.org/10.5888/pcd18.170354external icon 
+[^GB-5]: National Academies of Sciences, Engineering, and Medicine. 2020. Social Isolation and Loneliness in Older Adults: Opportunities for the Health Care System. Washington, DC: The National Academies Press. https://doi.org/10.17226/25663
